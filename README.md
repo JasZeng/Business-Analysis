@@ -6,12 +6,12 @@ Instead of utilizing advanced math models to solve a specific question, this pro
 
 What's inside this repository:
 1. Thera Bank project write up.docx
-   Project write up/ detailed explanation
+   "Project write up/ detailed explanation"
 2. Thera_Personal_Loan_workbook.xlsx
-   All Data and some basic calculation to facilitate the analysis
+   "All Data and some basic calculation to facilitate the analysis"
 3. Thera Bank Project-Jasmine.pptx
-   Final presentation with key visuals and conclusion
+   "Final presentation with key visuals and conclusion"
 4. Tableau workbook is not included (becuase I use tableau public), so I put the link to dashborad here: 
-   https://public.tableau.com/app/profile/jasmine7670/viz/Banksclient-Excercise/Dashboard3?publish=yes
+   "https://public.tableau.com/app/profile/jasmine7670/viz/Banksclient-Excercise/Dashboard3?publish=yes"
    
 Any comment is welcomed!
